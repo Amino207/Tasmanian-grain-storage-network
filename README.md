@@ -85,7 +85,7 @@ The Storage LAN represents the remote storage facility. It includes the storage 
 
 ## Why Layer 3 Switches Were Used
 
-Layer 3 switches were included in the topology because the selected router model did not provide enough physical interfaces to support all required backbone connections. As a result, the Layer 3 switches provided a practical solution for handling multiple routed interconnections within the network while maintaining efficient communication between the core parts of the topology.
+Layer 3 switches were included in the topology because the selected router model did not provide enough physical interfaces to support all required backbone connections(packet tracer limitation does not allowed to configure more than 2 ip addresses). As a result, the Layer 3 switches provided a practical solution for handling multiple routed interconnections within the network while maintaining efficient communication between the core parts of the topology.
 
 ---
 
